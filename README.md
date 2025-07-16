@@ -1,5 +1,6 @@
 
 Segue como você pode persistir seu Personal Access Token (PAT) para não ter que digitá‑lo a cada push ou clone:
+
 git config --global credential.helper store
 
 
